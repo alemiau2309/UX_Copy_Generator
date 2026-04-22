@@ -996,7 +996,7 @@ function GenerateTab({ guidelines, saved, prd, onResult, generateResult }) {
           <span style={{
             position: "absolute", right: 12, top: "50%", transform: "translateY(-50%)",
             fontFamily: SANS, fontSize: 16, color: C.success, fontWeight: 500,
-          }}>✓ {copyType}</span>
+          }}>✓</span>
         ) : (
           <span style={{
             position: "absolute", right: 12, top: "50%", transform: "translateY(-50%)",
