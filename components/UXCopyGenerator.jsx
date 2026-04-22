@@ -1534,9 +1534,7 @@ export default function UXCopyGenerator() {
       }}>
         <div style={{ maxWidth: 600, margin: "0 auto" }}>
           <div style={{ display: "flex", alignItems: "baseline", justifyContent: "space-between", marginBottom: 16 }}>
-            <h1 style={{ fontFamily: DISPLAY, fontSize: 20, fontWeight: 700, color: C.heading, margin: 0, letterSpacing: "-0.02em" }}>
-              UX Copy Generator
-            </h1>
+            <img src="/logo.png" alt="UX Copy Generator" style={{ height: 24 }} />
 
           </div>
           <div style={{ display: "flex", gap: 0 }}>
