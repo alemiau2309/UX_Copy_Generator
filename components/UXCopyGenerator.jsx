@@ -1463,7 +1463,7 @@ export default function UXCopyGenerator() {
       `}</style>
 
       <div style={{ padding: "28px 40px", display: "flex", justifyContent: "space-between", alignItems: "center" }}>
-      <img src="/logo.png" alt="UX Copy Generator" style={{ height: 20, marginBottom: 16 }} />
+      <img src="/logo.png" alt="UX Copy Generator" style={{ height: 36, marginBottom: 16 }} />
         <p style={{ fontFamily: SANS, fontSize: 14, color: C.tertiary, margin: 0 }}>
           Built by{" "}
           <a href="https://www.linkedin.com/in/alejaalvear/" target="_blank" rel="noopener noreferrer"
