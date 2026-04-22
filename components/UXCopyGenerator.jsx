@@ -559,7 +559,8 @@ function SectionTitle({ children }) {
 function AboutTab({ onNavigate }) {
   return (
     <div style={{
-      maxWidth: 600, margin: "0 auto", padding: "80px 24px 60px",
+maxWidth: 900, margin: "0 auto"
+, padding: "80px 24px 60px",
       display: "flex", flexDirection: "column", alignItems: "center", textAlign: "center",
     }}>
       <FadeIn delay={0}>
