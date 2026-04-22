@@ -1,5 +1,4 @@
-import { useState, useEffect } from "react";
-
+import React, { useState, useEffect } from "react";
 /* ─── Design tokens ─── */
 const C = {
   bg: "#fafafa",
